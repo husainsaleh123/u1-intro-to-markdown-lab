@@ -104,3 +104,4 @@ Use these keyboard shortcuts to open a preview tab in VS Code:
 - Windows/Linux: `Ctrl` + `K` followed by `V`
 
 ***[read the docs](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview)***
+
